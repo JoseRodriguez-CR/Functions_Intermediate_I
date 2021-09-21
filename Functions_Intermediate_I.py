@@ -1,4 +1,4 @@
-#"""
+
 print('1.Update Values in Dictionaries and Lists')
 
 #Change the value 10 in x to 15. Once you're done, x should now be [ [5,2,3], [15,8,9] ].
@@ -78,7 +78,7 @@ z[0]['y'] = 30
 print(z)
 
 print("----------End of exercise 1------------")
-#"""
+
 
 
 print('2.Iterate Through a List of Dictionaries')
